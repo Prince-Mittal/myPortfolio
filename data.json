@@ -1,0 +1,32 @@
+{
+    "name": "Prince Mittal",
+    "title": "FullStack Web Developer , Programmer",
+    "intro": "Welcome to my Portfolio Website. This portfolio webpage is designed to demonstrate my web development skills.",
+    "skills": [{
+            "title": "HTML",
+            "rating": "90"
+        },
+        {
+            "title": "CSS",
+            "rating": "75"
+        },
+        {
+            "title": "Javascript",
+            "rating": "85"
+        },{
+            "title": "Node.js",
+            "rating": "50"
+        },{
+            "title": "C/C++",
+            "rating": "80"
+        },{
+            "title": "Java",
+            "rating": "70"
+        }
+    ],
+    "contact": {
+        "location": "Chitkara University",
+        "phone": "8059090757",
+        "email": "princemittal555@gmail.com"
+    }
+}
